@@ -1,0 +1,4 @@
+name = "MyPkg3"
+uuid = "7f967aa1-1195-4b75-9284-a8874b5afa29"
+authors = ["okatsn <49422823+okatsn@users.noreply.github.com>"]
+version = "0.1.0"
